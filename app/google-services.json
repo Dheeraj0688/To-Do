@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384475706429",
+    "project_id": "to-do-cfd5e",
+    "storage_bucket": "to-do-cfd5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384475706429:android:0ff396bd0c4d5c04292654",
+        "android_client_info": {
+          "package_name": "com.example.doit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384475706429-fp2v8aa575m2j227cg4fm0mmlivsll17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoIlgBmbteY4uVjpve0YbUvQ3er62ZN2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384475706429-fp2v8aa575m2j227cg4fm0mmlivsll17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
